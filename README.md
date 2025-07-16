@@ -20,7 +20,7 @@ A modular Python application for real-time object tracking using OpenCV. Users c
 ### Setup
 1. Clone the repository (if using GitHub):
    ```bash
-   git clone https://github.com/your-username/eyego.git
+   git clone https://github.com/MahmoudSalama7/eyego.git
    cd eyego
 
    Or navigate to D:\eyego if working locally.
